@@ -82,4 +82,4 @@ This will create a `build` subfolder in the application folder which contains
 the HTML and asset files ready to be published.
 
 [rvm]: https://www.ruby-lang.org/en/documentation/installation/#managers
-[bundler]: http://bundler.io/
+[bundler]: http://bundler.io/  
